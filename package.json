@@ -1,0 +1,15 @@
+{
+  "name": "WagSkill",
+  "version": "0.1.1",
+  "dependencies": {
+    "alexa-app": "latest",
+    "alexa-verifier": "latest",
+    "ejs": "latest",
+    "express": "latest",
+    "request": "^2.75.0"
+  },
+  "engines": {
+    "node": "latest",
+    "npm": "latest"
+  }
+}
